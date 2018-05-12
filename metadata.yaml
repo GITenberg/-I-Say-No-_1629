@@ -1,5 +1,8 @@
 _repo: -I-Say-No-_1629
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -13,6 +16,8 @@ description: In the mood for a tightly plotted whodunit? Check out I Say No from
   Collins, an author recognized as one of the most important figures in the development
   of the detective fiction genre. A unlikely heroine takes on the role of detective
   and uncovers the truth about her family's troubled history.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1629#-I-Say-No-
 gutenberg_issued: '1999-02-01'
 gutenberg_type: Text
 identifiers:
