@@ -10,8 +10,10 @@ Title: I Say No
 
 Author: Wilkie Collins
 
-Posting Date: October 10, 2008 [EBook #1629]
-Release Date: February, 1999
+Release Date: February, 1999 [EBook #1629]
+Last Updated: August 14, 2016
+
+
 
 Language: English
 
@@ -368,7 +370,7 @@ attractive, light. She audaciously took to herself the whole credit of
 telling her story:
 
 "I think it's my turn now," she said, "to be interested and amused. May
-I ask you to begin, Miss Emily? All I know of you at present is, t hat
+I ask you to begin, Miss Emily? All I know of you at present is, that
 your family name is Brown."
 
 Emily held up her hand for silence.
@@ -1014,7 +1016,7 @@ of snubbing Francine. "You have guessed wrong; I do regret," she
 answered. "I have found in Cecilia my dearest friend at school. And
 school brought with it the change in my life which has helped me to bear
 the loss of my father. If you must know what I was thinking of just now,
-I was thinking or my aunt. She has not answered my last letter--and I'm
+I was thinking of my aunt. She has not answered my last letter--and I'm
 beginning to be afraid she is ill."
 
 "I'm very sorry," said Francine.
@@ -1255,7 +1257,7 @@ why didn't you tell me about it before?"
 
 "Do go on! Were you at home when it happened?"
 
-"I w as here, at school."
+"I was here, at school."
 
 "You saw the newspapers, I suppose?"
 
@@ -1628,7 +1630,7 @@ already."
 
 She paused. Cecilia was silent. "Surely you don't hesitate?" Emily said.
 
-"I am too happy to go wherever Julia go es," Cecilia answered warmly; "I
+"I am too happy to go wherever Julia goes," Cecilia answered warmly; "I
 was thinking of you, dear." Her tender nature, shrinking from the hard
 necessities of life, shrank from the cruelly-close prospect of parting.
 "I thought we were to have had some hours together yet," she said. "Why
@@ -2516,7 +2518,7 @@ may say this without conceit, remembering the miserable end of it--that
 my feeling for her was returned. Her father and mother (excellent
 people) approved of the contemplated marriage. She accepted my presents;
 she allowed all the customary preparations for a wedding to proceed to
-completion; she had not even mercy en ough, or shame enough, to prevent
+completion; she had not even mercy enough, or shame enough, to prevent
 me from publicly degrading myself by waiting for her at the altar, in
 the presence of a large congregation. The minutes passed--and no bride
 appeared. The clergyman, waiting like me, was requested to return to the
@@ -3794,7 +3796,7 @@ of Zeeland, Hampshire, the above reward will be paid to any person or
 persons whose exertions shall lead to the arrest and conviction of the
 suspected murderer. Name not known. Supposed age, between twenty and
 thirty years. A well-made man, of small stature. Fair complexion,
-delicate features, clear blue eye s. Hair light, and cut rather short.
+delicate features, clear blue eyes. Hair light, and cut rather short.
 Clean shaven, with the exception of narrow half-whiskers. Small, white,
 well-shaped hands. Wore valuable rings on the two last fingers of
 the left hand. Dressed neatly in a dark-gray tourist-suit. Carried
@@ -4480,7 +4482,7 @@ cheered"--would they know her again? She sat down to rest and recover
 herself on the nearest bench. It was unoccupied. No passing footsteps
 were audible on the remote path to which she had strayed. Solitude at
 home! Solitude in the Park! Where was Cecilia at that moment? In
-Italy, among the lake s and mountains, happy in the company of her
+Italy, among the lakes and mountains, happy in the company of her
 light-hearted friend.
 
 The lonely interval passed, and persons came near. Two sisters, girls
@@ -5625,7 +5627,7 @@ She was as good as her word. What she had thought, and what she had
 planned, when he left her after his last visit, was frankly and fully
 told. "If you wonder how I discovered the library," she went on, "I must
 refer you to my aunt's lawyer. He lives in the City--and I wrote to him
-to help me. I don't consider that my time has been wasted. Mr. M orris,
+to help me. I don't consider that my time has been wasted. Mr. Morris,
 we owe an apology to Mrs. Rook."
 
 Alban's astonishment, when he heard this, forced its way to expression
@@ -6326,7 +6328,7 @@ away; I wish to speak to you."
 
 The eyes of the two women met--one, near the end of her life,
 concealing under a rugged surface a nature sensitively affectionate and
-incorruptibly true: the other, young in years, with out the virtues of
+incorruptibly true: the other, young in years, without the virtues of
 youth, hard in manner and hard at heart. In silence on either side,
 they stood face to face; strangers brought together by the force of
 circumstances, working inexorably toward their hidden end.
